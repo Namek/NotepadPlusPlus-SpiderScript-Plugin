@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">use var function func extends return if else switch case fallthrough default for while until do break continue try catch finally throw</Keywords>
+            <Keywords name="Keywords1">use var function func fn extends return if else switch case fallthrough default for while until do break continue try catch finally throw import as from await async</Keywords>
             <Keywords name="Keywords2">new delete typeof instanceof in of</Keywords>
             <Keywords name="Keywords3">void String Number Boolean Date Array Math RegExp</Keywords>
             <Keywords name="Keywords4">true false null undefined this super prototype alert document console</Keywords>
